@@ -1,0 +1,5 @@
+.env
+api/migrations
+api/__pycache__
+kubern_test/__pycache__
+db.sqlite3
